@@ -1,10 +1,11 @@
 <p align="center">
-  <h1 align="center">🌈 Welcome to Amjad's GitHub 🌈</h1>
+  <h1 align="center">✨As-salamu alaykum , I'm Amjad Ali ✨</h1>
 </p>
 
 <h3 align="center">
-  👋 Hi, I'm Amjad Ali
+  👋 Welcome to my GitHub profile
 </h3>
+
 <h4 align="center">
   Computer Systems Engineering Student at MUET | Aspiring Software Engineer | AI & ML Enthusiast 🤖
 </h4>
@@ -18,44 +19,51 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Computer Systems Engineering student at **MUET**  
-- 💻 Passionate about **Software Development**  
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**  
-- 📈 Improving my skills consistently every day  
+- 💻 Passionate about **Software Development & System Design**  
+- 🤖 Deep interest in **Artificial Intelligence & Machine Learning**  
+- 📊 Building strong **programming, logic & analytical skills**  
+- 📈 Consistently improving myself every day  
 
 ---
 
 ## 🔭 Currently Working On
-- C++ programming practice  
+
+- C++ programming & data structures  
 - Java beginner projects  
-- Logic building & problem-solving  
+- Programming logic & problem-solving  
 
 ---
 
 ## 🌱 Currently Learning
-- C++  
-- Java  
-- Python  
+
+- C++ (OOP + DSA basics)  
+- Java (OOP + small projects)  
+- Python (for AI & ML foundations)  
 - Git & GitHub  
 - Linux basics  
-- AI & Machine Learning (fundamentals)
+- AI & Machine Learning fundamentals  
 
 ---
 
 ## 🤝 Looking to Collaborate On
+
 - Beginner-friendly open source projects  
-- Simple software or AI-related projects  
+- Software development projects  
+- AI & ML beginner projects  
 
 ---
 
 ## 💬 Ask Me About
-- C++ basics  
+
+- C++ basics & OOP  
 - Java basics  
-- Python (beginner)  
+- Python (beginner level)  
 - GitHub for beginners  
 
 ---
 
 ## ⚡ Fun Fact
+
 > I started coding from zero — now I code every day 🚀
 
 ---
@@ -76,16 +84,26 @@
 ---
 
 ## 🎯 Goals
+
 - Become a professional **Software Engineer**  
-- Build **AI & ML based applications**  
-- Contribute to **Open Source**  
-- Create real-world impact with technology  
+- Build **AI & ML based intelligent systems**  
+- Contribute to **Open Source community**  
+- Solve real-world problems using technology  
 
 ---
 
-## 📫 Contact Me
-*linkedin: https://www.linkedin.com/in/amjad-ali-b87217359
-*email:amjadbhuttof@gamil.com
+## 💼 Open to Internship Opportunities
+
+<p align="center">
+  <a href="mailto:amjadbhuttof@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amjadbhuttof@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/amjad-ali-b87217359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Amjad%20Ali-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 <p align="center">
